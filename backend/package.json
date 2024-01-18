@@ -1,5 +1,5 @@
 {
-  "name": "flash-file-drop",
+  "name": "rabbithole",
   "version": "1.0.0",
   "description": "Aplicação de upload & download de arquivos, provendo um link rápido para compartilhamento e mantendo-o em até 7 dias.",
   "main": "index.js",
@@ -9,7 +9,7 @@
     "prisma:migrate": "prisma migrate dev"
   },
   "keywords": [],
-  "author": "",
+  "author": "Jessica Castro",
   "license": "ISC",
   "dependencies": {
     "@aws-sdk/client-s3": "^3.490.0",
